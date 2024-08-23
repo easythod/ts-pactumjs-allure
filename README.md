@@ -4,7 +4,7 @@
 
 **Following tools were used in this framework:**  
 TypeScript, Jest, PactumJS, Allure Report, Docker, GitHub
-
+ 
 ## ABOUT PROJECT
 Project made in my spare time to develop my skills in automation testing.  
 
